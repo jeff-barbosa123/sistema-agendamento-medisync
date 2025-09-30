@@ -4,11 +4,11 @@ Este repositório contém toda a documentação, planejamento e execução de te
 
 O objetivo principal foi simular um **ambiente corporativo real**, aplicando metodologias ágeis, engenharia de requisitos, testes manuais e automatizados, com **organização profissional** e foco em qualidade de software.
 
----
+
 
 ## 📂 Estrutura do Repositório
 
-```
+
 sistema-agendamento-medisync/
 │
 ├── 01-planejamento-requisitos/
@@ -32,9 +32,7 @@ sistema-agendamento-medisync/
 │   └── slides-apresentacao.pdf
 │
 └── README.md
-```
 
----
 
 ## 🎯 Objetivos do Projeto
 
@@ -44,7 +42,7 @@ sistema-agendamento-medisync/
 - Aplicar a **norma ISO/IEC 25010** como referência para qualidade.
 - Produzir **evidências organizadas e relatórios claros** para apresentação.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -56,7 +54,6 @@ sistema-agendamento-medisync/
 - **Automação de Testes:** Robot Framework + SeleniumLibrary
 - **Navegador Automação:** Google Chrome
 
----
 
 ## 🗂️ Documentação Incluída
 
@@ -70,7 +67,6 @@ Documentos que definem a base do projeto:
 - `Relatorio_Requisitos.docx`
 - `Sistema_Agendamento.pdf`
 
----
 
 ### **2. Testes Manuais (ISO/IEC 25010)**
 Relatórios completos de testes manuais, com foco em:
@@ -79,6 +75,7 @@ Relatórios completos de testes manuais, com foco em:
 - Estrutura em **BDD (Behavior Driven Development)** usando Gherkin.
 
 📊 **Exemplo de caso de teste BDD:**
+
 ```gherkin
 Funcionalidade: Cadastro de Paciente
 Cenário: Cadastro de paciente com dados válidos
@@ -93,7 +90,7 @@ Cenário: Cadastro de paciente com dados válidos
 - `Casos_Testes_BDD.docx`
 - `Evidencias_Testes.docx`
 
----
+
 
 ### **3. Automação de Testes**
 Automação desenvolvida para validar os fluxos principais:
@@ -108,7 +105,7 @@ Automação desenvolvida para validar os fluxos principais:
 - `log_erro_robot.txt` → Logs detalhados de execução.
 - Prints automáticos salvos durante os testes.
 
----
+
 
 ### **4. Evidências e Prints**
 Todas as evidências estão organizadas para facilitar a análise visual:
@@ -167,5 +164,5 @@ Além da documentação técnica, o projeto conta com:
 
 **Jefferson Paulo**  
 QA | Analista de Qualidade e Automação  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seuusuario)
+[LinkedIn] | [GitHub](https://github.com/seuusuario)
 
